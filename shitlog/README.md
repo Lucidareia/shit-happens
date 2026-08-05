@@ -2,7 +2,7 @@
 
 | # | Case | Status | Link |
 |---|---|---|---|
-| 0000 | Case template | — | [`../0000-template/`](../0000-template/) |
+| 0000 | Case template | — | [`0000-template/`](0000-template/) |
 | 0001 | Missing cat | HappensNow | [`0001-cat-missing/`](0001-cat-missing/) |
 
 This list is maintained by hand — whoever adds or changes a case updates it in the same PR.

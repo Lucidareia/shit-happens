@@ -1,21 +1,22 @@
 # Sh!t happens
 
-Sh!t happens — your fellow buddy that helps you in tough life situations. Comprehensive
-cheatsheets and guides for various cases: car incidents, natural disasters, insurance-related
-workflows and many more — sh!t happens, now you can be ready almost for anything.
+Hello! Sorry you're here! But maybe you're in the right place.
 
-Each **case** is the action-ready material for one specific tough life situation: the order
-of actions, the checklists, the things you use while it is happening.
+Sh!t happens is a collection of tough life situations none of us want to be in... Yet they
+happen: traffic incident, natural disaster, layoff, cat missing - you name it. Once you're in -
+you're already stressed enough and still have to find the best way to advance. This project
+will back you.
+
+In the [`shitlog/`](shitlog/) you can find a list of cases with some useful tools and
+cheatsheets that will help you acting-now to maximize efficiency in the given situation and
+minimize emotional damage from digging for best practices in the middle of a sh!t-storm.
+Every case is unique and the tool set varies.
 
 ## How it's organised
 
-- Cases live in [`shitlog/`](shitlog/) — flat, one numbered folder per case (`NNNN-slug`).
-- The reusable template is [`0000-template/`](0000-template/) at the repo root — copy it to
-  start a case.
-
-## Where to go
-
-- [`shitlog/README.md`](shitlog/README.md) — the case list.
-- [`CONTRIBUTING.md`](CONTRIBUTING.md) — how to add or enrich a case.
+- Cases live in [`shitlog/`](shitlog/), index is in [`shitlog/README.md`](shitlog/README.md);
+- Cases can be NotValidated, Validated and HappensNow;
+- Anyone can add a new case or enrich and validate an existing one by opening a PR - see
+  [`CONTRIBUTING.md`](CONTRIBUTING.md) for how-to;
 
 License: [CC BY-SA 4.0](LICENSE).

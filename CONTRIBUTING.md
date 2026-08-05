@@ -5,8 +5,8 @@ enrich an existing case.
 
 ## Adding a new case
 
-1. Copy [`0000-template/`](0000-template/) into `shitlog/NNNN-slug/`, using the next free
-   number.
+1. Copy [`shitlog/0000-template/`](shitlog/0000-template/) into `shitlog/NNNN-slug/`, using
+   the next free number.
 2. Fill it in.
 3. Add the case to the list in [`shitlog/README.md`](shitlog/README.md) in the same PR.
 
