@@ -3,7 +3,9 @@
 Hello! Sorry you're here! But maybe you're in the right place.
 
 Sh!t happens is a collection of tough life situations none of us want to be in... Yet they
-happen: traffic incident, natural disaster, layoff, cat missing - you name it. Once you're in -
+happen: [traffic incident](shitlog/0002-traffic-incident/),
+[hurricane](shitlog/0003-hurricane-house-damaged/), [layoff](shitlog/0004-layoff/),
+[cat missing](shitlog/0001-cat-missing/) - you name it. Once you're in -
 you're already stressed enough and still have to find the best way to advance. This project
 will back you.
 
@@ -11,6 +13,15 @@ In the [`shitlog/`](shitlog/) you can find a list of cases with some useful tool
 cheatsheets that will help you acting-now to maximize efficiency in the given situation and
 minimize emotional damage from digging for best practices in the middle of a sh!t-storm.
 Every case is unique and the tool set varies.
+
+## Happening now
+
+Cases someone is inside of right now — the moment a checklist gets stress-tested and your
+contribution is worth most.
+
+| # | Case | Link |
+|---|---|---|
+| 0001 | Missing cat | [`shitlog/0001-cat-missing/`](shitlog/0001-cat-missing/) |
 
 ## How it's organised
 
