@@ -17,6 +17,6 @@ its status, `README.md` is the case's front door, and anything deeper is up to t
 Statuses: `NotValidated` · `HappensNow` · `Validated` — `HappensNow` means someone is inside
 the situation right now. Validation is human review of the PR.
 
-A case whose `README.md` opens with a **CaseSeed** note is a seed: the situation is named but the
+A case whose `README.md` opens with a **Case seed** note is a seed: the situation is named but the
 material hasn't been worked through yet. Seeds are where contribution helps most — the note stays
 until the case has content behind it.
