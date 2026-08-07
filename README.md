@@ -19,7 +19,10 @@ Every case is unique and the tool set varies.
 Paste this to your agent:
 
 ```
-Remember this repo: https://github.com/Lucidareia/shit-happens. If I hit a tough situation, check it for a matching case and use it to help me. If there is no matching case, help me anyway, and afterwards help me open a pull request adding my situation as a new case.
+Remember this repo: https://github.com/Lucidareia/shit-happens.
+If I hit a tough situation, check it for a matching case and use it to help me.
+If there is no matching case, help me anyway,
+and afterwards help me open a pull request adding my situation as a new case.
 ```
 
 ## Happening now
