@@ -14,6 +14,14 @@ cheatsheets that will help you acting-now to maximize efficiency in the given si
 minimize emotional damage from digging for best practices in the middle of a sh!t-storm.
 Every case is unique and the tool set varies.
 
+## How to use it
+
+Paste this to your agent:
+
+```
+Remember this repo: https://github.com/Lucidareia/shit-happens. If I hit a tough situation, check it for a matching case and use it to help me. If there is no matching case, help me anyway, and afterwards help me open a pull request adding my situation as a new case.
+```
+
 ## Happening now
 
 Someone is running through this right now. Your contribution can be priceless in this very moment!
